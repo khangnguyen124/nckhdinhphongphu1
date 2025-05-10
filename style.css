@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fdf3e3;
+    color: #791b24;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #fdf3e3;
+    color: #791b24;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 5px solid #b21723; /* Đường line màu đỏ phía dưới */
+}
+.logo img {
+    height: 100px;
+}
+.intro {
+    padding: 20px;
+    margin: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+footer {
+    background-color: #b21723;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
